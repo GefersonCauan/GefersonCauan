@@ -43,17 +43,6 @@ What drives me is understanding how systems work behind the scenes and turning t
 | [analisededados](https://github.com/GefersonCauan/analisededados) | Data analysis and visualization tool for real-world datasets | Python |
 | [cassino_python](https://github.com/GefersonCauan/cassino_python) | Casino game simulator with multiple modes and virtual balance management | Python |
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GefersonCauan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GefersonCauan&layout=compact&theme=dark&hide_border=true" />
-</div>
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
