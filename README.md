@@ -1,23 +1,64 @@
-## Ola! prazer Geferson Cauan👋
+# Hi, I'm Geferson Cauan 👋
 
-- 🔭 busco oportunidades na area...
-- 🌱 estudante de python ...
-- 👯 gosto muito de busca aprender e inovar ...
-- 💬 Contate-me no meu Email gefersoncauan@gmail.com ...
-- 😄 Pronouns: ele/dele
-<div style="display: inline_block"><br>
-  <img align="center" alt="cauan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="cauan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="cauan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="cauan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="cauan-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
-  <img  align="center" alt="cauan-django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+**Full Stack Developer** focused on building complete, functional applications — from database to interface.
+
+---
+
+## 🚀 About me
+
+I'm a technology professional passionate about software development and system architecture. Currently studying **Systems Analysis and Development at Estácio** (graduating Jun/2026), I develop solutions that go beyond code — thinking about architecture, user experience, and system efficiency.
+
+What drives me is understanding how systems work behind the scenes and turning that curiosity into real, practical projects.
+
+---
+
+## 🛠️ Tech Stack
+
+**Back-end**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![APIs REST](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Front-end**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+**Cloud & Tools**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [simulador_bolsa](https://github.com/GefersonCauan/simulador_bolsa) | Stock market simulator with buy/sell operations and portfolio tracking | Python |
+| [recomendador-ia-investimentos](https://github.com/GefersonCauan/recomendador-ia-investimentos) | AI-powered investment recommender based on user profile analysis | Python |
+| [finance-manager](https://github.com/GefersonCauan/finance-manager) | Personal finance manager with income, expense tracking and reports | TypeScript |
+| [jogo-da-velha](https://github.com/GefersonCauan/jogo-da-velha) | Interactive tic-tac-toe game with browser interface | JavaScript |
+| [analisededados](https://github.com/GefersonCauan/analisededados) | Data analysis and visualization tool for real-world datasets | Python |
+| [cassino_python](https://github.com/GefersonCauan/cassino_python) | Casino game simulator with multiple modes and virtual balance management | Python |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GefersonCauan&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GefersonCauan&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<br>
-<div>
-  <a href="https://www.linkedin.com/in/geferson-cauan-878bb0299/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
+---
 
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-PERFIL-AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:gefersoncauan@gmail.com)
+
+---
+
+*Always looking for new opportunities and challenges in software development.*
